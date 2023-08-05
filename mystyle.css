@@ -1,0 +1,48 @@
+body {
+  background-color: #fcd8e1;
+}
+.Cat {
+  background-color: #7eaa92;
+  padding: 2%;
+  margin: 0%;
+  .h1 {
+    color: whitesmoke;
+    width: fit-content;
+  }
+}
+.marquee {
+  color: #3a1078;
+}
+.text {
+  text-align: center;
+  font: 100;
+  color: #3a1078;
+}
+.img {
+  font-style: italic;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.img2 {
+  font-style: italic;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.img3 {
+  font-style: italic;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.logo {
+  display: flex;
+  justify-content:center;
+}
+.container1 {
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+}
+.container2 {
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+}
+
+
